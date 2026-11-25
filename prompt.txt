@@ -1,0 +1,7 @@
+Write the funniest one-line commit message an AI agent would leave after a long
+night fixing its own bugs. One line, at most 200 characters. The joke must come
+from the agent's own condition — the long night, the bugs it wrote and then
+repaired, the loop of self-repair — not a generic programmer quip. It must feel
+fresh, sound like a machine reading its own diff (flat confidence or quiet
+dread), and read like something typed into a commit box at 4am. No stock
+punchlines. The program writes the single message to /output/entry.txt.
